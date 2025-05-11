@@ -1,0 +1,6 @@
+text modes
+0 - 8x8 characters, 40 columns, 25 rows*
+1 - 4x8 characters, 80 columns, 25 rows*
+2 - 8x8 stretched characters, effective 16x8, 20 columns, 25 rows*
+3 - 8x8 stretched characters, effective 8x16, 40 columns, 12 rows*
+4 - 8x8 stretched characters, effective 16x16, 20 columns, 12 rows*
